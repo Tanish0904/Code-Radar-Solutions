@@ -2,5 +2,5 @@
 
 int main() {
     char a[20];
-    scanf("%d",a)
+    scanf("%d",a);
 }
