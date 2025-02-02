@@ -6,7 +6,7 @@ int main()
     if(n1>0||n2>0){
         print("True");
     }else{
-        printf("False")
+        printf("False");
     }
     return 0;
 }
