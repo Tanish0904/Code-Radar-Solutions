@@ -5,7 +5,9 @@ int main()
     scanf("%d %d",&a,&b);
     if(a>b){
         printf("Yes");
-    }else {
+    }else if(a=b) {
+        printf("No");
+    }else{
         printf("No");
     }
     return 0;
