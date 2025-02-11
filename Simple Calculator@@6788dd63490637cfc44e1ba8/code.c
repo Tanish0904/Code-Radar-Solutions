@@ -13,7 +13,7 @@ int main()
     } else if(op == '/') {
         printf("%d\n", a / b);
     } else {
-        printf("Invalid operator\n");
+        printf("error");
     }
 }
 
