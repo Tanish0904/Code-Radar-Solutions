@@ -8,10 +8,10 @@ int main()
         printf("%d\n", a + b);
     } else if(op == '-') {
         printf("%d\n", a - b);
-    } else if(op == '%') {
-        printf("%d\n", a % b);
     } else if(op == '/') {
         printf("%d\n", a / b);
+    } else if(op == '*') {
+        printf("%d\n", a * b);
     } else {
         printf("error");
     }
